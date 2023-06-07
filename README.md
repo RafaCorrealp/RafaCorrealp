@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RafaCorrealp
-- 👀 I’m interested in "Full Stack" | "Python" | "Back-end" | "Front-end"| Desing | UX Design -Design 
+- 👀 I’m interested in "Full Stack" | "Python" | "Back-end" | "Front-end"| "UX Design"
 - 🌱 I’m currently learning Python and JS
 - 📫 How to reach me to +55 (14) 982248472 our rafaelcorrea030586@hotmail.com
 
